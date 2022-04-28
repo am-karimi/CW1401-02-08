@@ -1,0 +1,16 @@
+{
+  "name": "amadg/ex-1",
+  "autoload": {
+    "psr-4": {
+      "Amadg\\Ex1\\": "src/",
+      "Classes\\": "classes/"
+    }
+  },
+  "authors": [
+    {
+      "name": "ARm1110",
+      "email": "amirrajabali1999@gmail.com"
+    }
+  ],
+  "require": {}
+}
